@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "eyebrow": "A small beginning",
+    "title": "Hello, world.",
+    "note": "A quiet place to arrive, take a breath, and begin again."
+  },
+  "principles": [
+    {
+      "title": "Arrive",
+      "body": "There is no rush. Start exactly where you are.",
+      "id": "SUKD_oOzehsglUQX3Ntcd"
+    },
+    {
+      "title": "Notice",
+      "body": "A little curiosity can make an ordinary moment feel new.",
+      "id": "cys8CSdrGVgYYaH2CDs2n"
+    },
+    {
+      "title": "Begin",
+      "body": "The next page is waiting, gently and without pressure.",
+      "id": "JoP2SjLIj77KtRXq-h2hh"
+    }
+  ],
+  "invitation": {
+    "folio": "01 / Begin here",
+    "label": "Turn the page"
+  },
+  "footer": {
+    "closing": "Made for the simple pleasure of saying hello."
+  }
+}
