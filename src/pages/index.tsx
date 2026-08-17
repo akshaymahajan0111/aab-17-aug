@@ -114,7 +114,7 @@ export default function HomePage() {
               aria-hidden="true"
             >
               <div className="stamp flex h-28 w-28 items-center justify-center rounded-full border border-primary/40 text-center font-heading text-xl leading-none text-primary">
-                hello<br />From GitHub
+                hello<br />GitHub 2
               </div>
             </motion.div>
           </div>
