@@ -1,7 +1,10 @@
 {
   "hero": {
     "eyebrow": "A small beginning",
-    "title": "Hello, world.",
+    "title": {
+      "lineOne": "Hello",
+      "lineTwo": "Airo!"
+    },
     "note": "A quiet place to arrive, take a breath, and begin again."
   },
   "principles": [

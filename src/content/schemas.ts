@@ -4,7 +4,10 @@ export const schemas = {
     home: z.object({
       "hero": z.object({
         "eyebrow": z.string(),
-        "title": z.string(),
+        "title": z.object({
+          "lineOne": z.string(),
+          "lineTwo": z.string()
+        }),
         "note": z.string()
       }),
       "principles": z.array(z.object({

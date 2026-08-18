@@ -82,7 +82,8 @@ export default function HomePage() {
                 transition={{ duration: 0.7, delay: 0.14, ease: 'easeOut' }}
                 className="max-w-4xl font-heading text-[clamp(5rem,13vw,11.5rem)] font-medium leading-[0.76] tracking-[-0.055em] text-foreground"
               >
-                {home.hero.title}
+                <span className="block">{home.hero.title.lineOne}</span>
+                <span className="block">{home.hero.title.lineTwo}</span>
               </motion.h1>
               <motion.p
                 initial="hidden"
@@ -114,7 +115,7 @@ export default function HomePage() {
               aria-hidden="true"
             >
               <div className="stamp flex h-28 w-28 items-center justify-center rounded-full border border-primary/40 text-center font-heading text-xl leading-none text-primary">
-                hello<br />GitHub 2
+                hello<br />Airo
               </div>
             </motion.div>
           </div>
